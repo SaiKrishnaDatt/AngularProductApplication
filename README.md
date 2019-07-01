@@ -31,4 +31,4 @@ Output:
 ![](outputImages/Angular_Module3.png)
 ![](outputImages/Angular_Module4.png)
 ![](outputImages/Angular_Module5.png)
-![](outputImages/Angular_Module5.png)
+![](outputImages/Angular_Module6.png)
